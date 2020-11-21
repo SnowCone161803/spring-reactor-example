@@ -1,0 +1,8 @@
+spring:
+  devtools:
+    restart:
+      poll-interval: 1s
+      quiet-period: 400ms
+
+animal:
+  isFilteringEnabled: true
